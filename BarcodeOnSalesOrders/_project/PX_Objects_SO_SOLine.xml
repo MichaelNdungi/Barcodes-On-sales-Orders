@@ -1,0 +1,6 @@
+﻿<DAC type="PX.Objects.SO.SOLine">
+    <Field FieldName="UsrBarcode" TypeName="string" MapDbTable="SOLine" TextAttributes="#CDATA" StorageName="AddColumn">
+        <CDATA name="TextAttributes"><![CDATA[[PXDBString(100)]
+[PXUIField(DisplayName="Barcode")]]]></CDATA>
+    </Field>
+</DAC>
